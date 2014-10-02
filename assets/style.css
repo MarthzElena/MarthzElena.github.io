@@ -23,6 +23,7 @@ body {
 
 .title { background-color: coral; width: 1000px; }
 .subtitle { font-style: italic; font-weight: 700; }
+.subtitle2 { font-style: italic; }
 .content p { margin: 5px 0; }
 .table{ padding: 0 3%; display: -webkit-box; }
 .col-1-2{ width: 500px; }
