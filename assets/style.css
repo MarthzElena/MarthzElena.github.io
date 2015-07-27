@@ -10,6 +10,7 @@ body {
 .container img{ width: 100%; height: auto; }
 
 .bio { width: 400px; font-style: italic; font-size: 0.4em; }
+.bio span {font-size: 0.9em; }
 .bold { font-weight: 700; }
 .center{ text-align: center; }
 
@@ -23,7 +24,7 @@ body {
 
 .title { background-color: coral; width: 1000px; }
 .subtitle { font-style: italic; font-weight: 700; }
-.subtitle2 { font-style: italic; }
+.subtitle2 { font-style: italic; color: coral; font-weight: 500;}
 .content p { margin: 5px 0; }
 .table{ padding: 0 3%; display: -webkit-box; }
 .col-1-2{ width: 500px; }
